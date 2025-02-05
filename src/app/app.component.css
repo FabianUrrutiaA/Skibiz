@@ -1,0 +1,9 @@
+.content {
+  margin-top: 56px; /* Ajusta este valor según la altura de tu navbar */
+  margin-left: 0;
+  transition: margin-left 0.3s;
+}
+
+.content.with-sidebar {
+  margin-left: 250px;
+}
